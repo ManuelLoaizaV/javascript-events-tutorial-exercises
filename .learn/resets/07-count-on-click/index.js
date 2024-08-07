@@ -17,7 +17,4 @@ window.increaseCounter = function increaseCounter()
 }
 
 // Your code here
-window.decreaseCounter = function decreaseCounter() {
-	counter--;
-	document.getElementById('screen').innerHTML = `The counter value is ${counter}`;
-}
+
